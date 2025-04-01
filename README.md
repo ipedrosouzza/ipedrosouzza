@@ -1,1 +1,1 @@
-## Olá,! sou o Pedro Souzza👋
+## Olá!, sou o Pedro Souzza👋
