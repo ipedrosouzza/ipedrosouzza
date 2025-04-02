@@ -1,7 +1,7 @@
 # Olá, eu sou o Pedro Souza! 👋  
 
-💻 **Front-End Developer** | Transformando ideias em experiências digitais  
-✨ Transformando minha paixão por tecnologia em código  
+💻 **Front-End Developer**  
+✨ Transformando ideias em experiências digitais    
 💡 Aprendendo a criar interfaces incríveis e funcionais  
 🌱 Atualmente focando em HTML, CSS, JavaScript e Python  
 🎯 Objetivo: Me tornar um desenvolvedor Full-Stack 
