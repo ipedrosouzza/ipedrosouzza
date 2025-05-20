@@ -3,7 +3,7 @@
 💻 **Front-End Developer**  
 ✨ Transformando ideias em experiências digitais    
 💡 Aprendendo a criar interfaces incríveis e funcionais  
-🌱 Atualmente focando em HTML, CSS, JavaScript e Python  
+🌱 Atualmente focando em HTML, CSS e JavaScript  
 🎯 Objetivo: Me tornar um desenvolvedor Full-Stack 
 
 <div style="display: inline_block"><br>
